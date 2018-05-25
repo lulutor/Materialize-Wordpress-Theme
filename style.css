@@ -1,0 +1,17 @@
+
+/*
+Theme Name: Windsurf Theme
+Author: Your Name
+Author URI: http://www.yourwebsite.com
+Description: My first responsive HTML5 theme
+Version: 1.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
