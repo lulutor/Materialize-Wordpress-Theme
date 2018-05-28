@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<main class="section no-pad-bot col s12" id="index-banner">
+<main class="section no-pad-bot col s12 m4 l3" id="index-banner">
   <section class="container">
     <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
     <br><br>

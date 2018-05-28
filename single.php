@@ -1,5 +1,4 @@
 <?php get_header(); ?>
-<nav class="section no-pad-bot" id="index-banner">
   <section class="container">
     <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
     <br><br>
@@ -21,6 +20,4 @@
     </main>
     <?php get_footer(); ?>
   </section>
-</nav>
-
 <?php get_footer(); ?>
